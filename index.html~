@@ -89,7 +89,7 @@
                 <h1>Harshen Pandey</h1>
                 <h2><span>LAMP Developer/ui designer</span><br /><a href="mailto:harshenpandey@gmail.com">harshenpandey@gmail.com</a></h2>
             </div>
-            <div id="about_pict" class="grid"><img src="images/HP_12.jpg" alt="Harshen Pandey | Portfolio" /></div>
+            <div id="about_pict" class="grid"><img src="images/HP_resize.jpg" alt="Harshen Pandey | Portfolio" /></div>
             <div class="clear">&nbsp;</div>
             <div class="left grid"></div>
             <div class="left grid about_text">
